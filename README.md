@@ -6,9 +6,6 @@
 
 Programador com foco no backend e estudante de Sistemas de Informação na UFS. Atualmente, faço parte da ZDOC como Desenvolvedor Júnior, atuando com o ecossistema Java e Spring Boot, e também sou Diretor de Projetos na [LAWD (Liga Acadêmica de Desenvolvimento Web)](https://github.com/Lawd-UFS). No meu tempo livre, venho aprofundando meus conhecimentos técnicos em Docker, rotinas de CI/CD, criação de testes e mensageria.
 
-<br>
-
----
 
 <br>
 
@@ -70,9 +67,6 @@ Programador com foco no backend e estudante de Sistemas de Informação na UFS. 
 
 <br>
 
----
-
-<br>
 
 ### 📊 Minhas Contribuições e Estatísticas
 
@@ -81,9 +75,6 @@ Programador com foco no backend e estudante de Sistemas de Informação na UFS. 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BrunoSaintClair&layout=compact&theme=dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="160"/>
 </p>
 
-<br>
-
----
 
 <br>
 
