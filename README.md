@@ -16,4 +16,4 @@
 ### Contato
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bruno-saint-clair)&nbsp;&nbsp;
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:brunosaint.dev@gmail.com)
+[![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=brunosaint.dev%40gmail.com)
