@@ -6,6 +6,13 @@
 - Diretor de Projetos na [LAWD](https://github.com/Lawd-UFS), coordenando equipes e projetos de desenvolvimento web.
 - Escrevo sobre tecnologia e projetos que desenvolvo no [meu blog](https://blog.devsaint.com.br/).
 
+### Alguns dos meus projetos
+
+- [Amigo Secreto](https://amigosecreto.devsaint.com.br) - Te auxilia a organizar aquele amigo secreto de maneira extremamente simples.
+- [CandidaturaCommit](https://candidaturacommit.devsaint.com.br) - Gerenciador de candidaturas, com controle de versão de currículos, análise de match com vagas utilizando IA e insights.
+- [My VPS](https://github.com/BrunoSaintClair/my-vps) - Painel de acompanhamento da sua VPS.
+- [Blog BS Notes](https://blog.devsaint.com.br/) - Meu blog pessoal onde posto sobre temas diversos.
+
 ### Estatísticas
 
 <p align="center">
